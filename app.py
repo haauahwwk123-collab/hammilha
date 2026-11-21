@@ -41,7 +41,7 @@ YDL_BASE_OPTS = {
     "no_warnings": True,
     "noplaylist": True,
     "noprogress": True,
-    "socket_timeout": 20,
+    "socket_timeout": 20,"format_sort": ["codec:avc:m4a", "res", "fps", "br"],
 }
 
 
