@@ -269,7 +269,7 @@ INDEX_HTML = r"""<!DOCTYPE html>
 <div class="wrap">
   <header>
     <div class="logo">__APP_NAME__</div>
-    <div class="tagline">حمّل أي فيديو من السوشيال ميديا في ثواني 🎬</div>
+    <div class="tagline">حمّل أي فيديو من السوشيال ميديا في ثواني 🎬</div><div class="tagline">Made with ❤️ by hassan_ahmed</div>
   </header>
 
   <div class="card">
